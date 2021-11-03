@@ -1,0 +1,22 @@
+{
+  "name": "Asynconf-Algorithm-constest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "firstexo": "node ./exercice_one/index.js",
+    "secondexo": "node ./exercice_two/index.js",
+    "thirdexo": "node ./exercice_tree/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmanu91/Asynconf-Algorithm-constest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmanu91/Asynconf-Algorithm-constest/issues"
+  },
+  "homepage": "https://github.com/xmanu91/Asynconf-Algorithm-constest#readme"
+}
