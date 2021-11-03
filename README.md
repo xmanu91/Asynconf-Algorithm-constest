@@ -1,4 +1,4 @@
-#Asynconf 2021 - Algorythm contest
+# Asynconf 2021 - Algorythm contest
 
 Salut je n'ai pus faire que les exercices 1 et 3, j'ai essayé le deux mais sans trop de résultats...
 
