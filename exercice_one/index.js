@@ -36,4 +36,3 @@ const reformAlphabet = (formula) => {
     
     return sentence;
 };
-
